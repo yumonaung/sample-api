@@ -5143,11 +5143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yumonaung/Desktop/yumon-sample-api/Supermarket.API/Supermarket.API.csproj",
+      "projectUniqueName": "/Users/yumonaung/yumon-sample-api/Supermarket.API/Supermarket.API.csproj",
       "projectName": "Supermarket.API",
-      "projectPath": "/Users/yumonaung/Desktop/yumon-sample-api/Supermarket.API/Supermarket.API.csproj",
+      "projectPath": "/Users/yumonaung/yumon-sample-api/Supermarket.API/Supermarket.API.csproj",
       "packagesPath": "/Users/yumonaung/.nuget/packages/",
-      "outputPath": "/Users/yumonaung/Desktop/yumon-sample-api/Supermarket.API/obj/",
+      "outputPath": "/Users/yumonaung/yumon-sample-api/Supermarket.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
